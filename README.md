@@ -1,1 +1,1 @@
-# telerymodule_block
+# Модуль block для юзербота Telery.
